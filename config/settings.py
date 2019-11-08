@@ -149,4 +149,4 @@ SITE_ID=1
 LOGIN_REDIRECT_URL = '/'
 
 IAMPORT_KEY = '6616264774534872'
-IAMPORT_SECRET='OyPrjuA06GGila36DBs4rdmj7bjLwDXkcNMvhmwn2cGomKvZlX4Nbq7jCq4842sgPeM7BivEuc2RWxQi'
+IAMPORT_SECRET='*************************************************'
